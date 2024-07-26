@@ -1,5 +1,5 @@
-# PWSkills-Assignments
-PWSkills Data Science Masters assignment 
+# Data Science Topic Assignments
+Data Science Masters assignment 
 
 # How to initialize repository
 1. Create Repository on GitHub with gitignore as python and license as GNU
